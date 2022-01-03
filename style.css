@@ -38,12 +38,12 @@ h2 {
 .about-me-text {
   font-family: "Nanum Gothic", sans-serif;
   font-weight: bold;
-  font-size: 15px;
+  font-size: 17px;
   line-height: 30px;
 }
 
 .mainbox {
-  width: 610px;
+  width: 210mm;
   padding: 30px;
   margin: 30px;
   margin-right: auto;
@@ -73,21 +73,21 @@ section {
 }
 
 .year-text {
-  font-size: 14px;
+  font-size: 16px;
   font-weight: bold;
   color: #282828;
   float: right;
 }
 
 .desc-text {
-  font-size: 11px;
+  font-size: 14px;
   margin-top: -8px;
   margin-bottom: 1%;
   padding-left: 1%;
 }
 
 .desc-subtext {
-  font-size: 9px;
+  font-size: 13px;
   color: #282828;
   padding-left: 16px;
   margin-top: 0;
