@@ -29,7 +29,7 @@ h2 {
   color: #282828;
   font-weight: lighter;
   margin-bottom: 6px;
-  border-bottom: 1px solid #ebebeb;
+  border-bottom: 1px solid #dddddd;
   padding-bottom: 5px;
 }
 
@@ -112,4 +112,11 @@ footer {
   padding: 20px;
   font-size: 12px;
   color: #919191;
+}
+
+.skills:after {
+  content: "( 상=3 중=2 하=1 )";
+  font-size: 14px;
+  font-weight: 500;
+  margin-left: 5px;
 }
