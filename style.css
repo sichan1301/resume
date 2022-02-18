@@ -4,6 +4,10 @@
   font-family: "Montserrat";
 }
 
+a:visited {
+  color: #0000ee;
+}
+
 body,
 h1 {
   margin: 0px;
@@ -91,10 +95,6 @@ section {
   color: #282828;
   padding-left: 16px;
   margin-top: 0;
-}
-
-.desc-subtext a:visited {
-  color: #0000ee;
 }
 
 .sns-img {
