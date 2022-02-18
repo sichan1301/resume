@@ -93,6 +93,10 @@ section {
   margin-top: 0;
 }
 
+.desc-subtext a:visited {
+  color: #0000ee;
+}
+
 .sns-img {
   width: 12px;
   height: 12px;
