@@ -114,13 +114,6 @@ footer {
   color: #919191;
 }
 
-/* .skills:after {
-  content: "( 상=3 중=2 하=1 )";
-  font-size: 14px;
-  font-weight: 500;
-  margin-left: 5px;
-} */
-
 
 @media (max-width: 768px) {
   .mainbox{
